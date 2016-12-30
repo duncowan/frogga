@@ -1,0 +1,92 @@
+8CREDITS
+#
+#
+#
+#
+5Developers
+#
+3Duncan Cowan
+#
+#
+#
+#
+5Level Designers
+#
+3Your Computer :O
+#
+#
+#
+#
+5UI Designers
+#
+3Duncan Cowan
+#
+#
+#
+#
+5UI Programmers
+#
+3Duncan Cowan
+#
+#
+#
+#
+5Sprite Artists
+#
+3Duncan Cowan
+#
+#
+#
+#
+5Animators
+#
+3Duncan Cowan
+#
+#
+#
+#
+5Sounds
+#
+3Tones and Sound Effects Co.
+2"Sound Effects: Video Game Sounds"
+#
+#
+#
+#
+5Music
+#
+3Daft Punk
+2"Get Lucky"
+#
+3RC88
+2"Art Of The Dress (8-bit)"
+2"Crusaders Go Crusading (8-bit)"
+2"Smile Smile Smile (8-bit)"
+2"Cupcakes (8-bit)"
+#
+3Bedroom Producers Blog
+2"Commodore 64 Synthesizer Sessions DELUXE"
+#
+#
+#
+#
+5Everything Else
+#
+3Duncan Cowan
+#
+#
+#
+#
+5Special Thanks
+#
+2Frogger, the inspiration for this game.
+2My Computer, for being able to run this game.
+2Java, the best programming language.
+2Oracle, for creating Java.
+2Microsoft, for creating Windows 7.
+2Photoshop, for helping with the sprites.
+2System.out.println(), for helping with debugging.
+2The Big Bang, for creating everything.
+2The Sun, without it, we will die.
+2John Wilkinson, for aplha testing
+2Orla McCormack, for giving me an excellence :D
